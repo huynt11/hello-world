@@ -15,4 +15,13 @@
     "sha256_cert_fingerprints":
     ["35:91:29:3D:13:32:56:C3:BB:50:A3:F1:E3:7C:12:40:3F:42:97:4A:A8:D8:09:E3:3F:D3:B9:1A:CA:FC:34:6E"]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "au.com.finstro.finstropay",
+    "sha256_cert_fingerprints":
+    ["74:FB:73:5A:66:6D:F5:41:6D:BF:AA:33:CC:30:06:19:F7:FA:BF:E0:51:61:8D:75:D6:9C:89:85:2B:B8:B8:F5"]
+  }
 }]
