@@ -24,4 +24,31 @@
     "sha256_cert_fingerprints":
     ["74:FB:73:5A:66:6D:F5:41:6D:BF:AA:33:CC:30:06:19:F7:FA:BF:E0:51:61:8D:75:D6:9C:89:85:2B:B8:B8:F5"]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "au.com.finstro.finstropay.us",
+    "sha256_cert_fingerprints":
+    ["74:FB:73:5A:66:6D:F5:41:6D:BF:AA:33:CC:30:06:19:F7:FA:BF:E0:51:61:8D:75:D6:9C:89:85:2B:B8:B8:F5"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "au.com.finstro.finstropay.uat",
+    "sha256_cert_fingerprints":
+    ["A1:B4:61:BE:E6:00:19:B2:05:30:67:86:A3:7D:52:81:8E:D2:22:5F:39:2D:4C:D2:DF:61:13:D3:60:79:E6:B7"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "au.com.finstro.finstropay.uat.us",
+    "sha256_cert_fingerprints":
+    ["A1:B4:61:BE:E6:00:19:B2:05:30:67:86:A3:7D:52:81:8E:D2:22:5F:39:2D:4C:D2:DF:61:13:D3:60:79:E6:B7"]
+  }
 }]
